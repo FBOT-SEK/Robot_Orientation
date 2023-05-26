@@ -1,2 +1,5 @@
-## O que é isto?
-Apenas um exemplo de como funcionará as documentações dos nossos códigos. Dentro desta pasta deve ser feito o upload dos códigos de odometria feitos pelo Gabriel e depois deletar este .md
+# Odometry_FBOT
+Implementação de odometria para localizar o robo no ev3dev2
+
+# TO - DO
+- Implementar Filtro de Kalman (o robô perde precisão muito rápido)
