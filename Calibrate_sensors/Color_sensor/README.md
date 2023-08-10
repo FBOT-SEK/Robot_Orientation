@@ -1,2 +1,2 @@
 ## Color_sensor
-Devemos upar o código para calibrar o sensor de cor aqui
+Código feito para converter os valores de RGB para HSV, podendo fazer uma calibração dos sensores.
